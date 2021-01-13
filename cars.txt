@@ -1,0 +1,31 @@
+  Toyota     blue   SEDAN   GAS_ENGINE      9.5  500 false 25000
+  Honda      red    SPORTS  GAS_ENGINE      9.2  450 false 30000
+  Kia        white  MINIVAN GAS_ENGINE      9.7  550 false 20000
+  BMW        black  SEDAN   GAS_ENGINE      9.6  600 true  55000
+  Tesla      red    SEDAN   ELECTRIC_MOTOR  9.1  425 true  85000  30
+  Chevy      red    MINIVAN GAS_ENGINE      9.25 475 false 40000
+  ChevyVolt  green  SEDAN   ELECTRIC_MOTOR  8.9  375 true  37000  450 
+  Bentley    black  SEDAN   GAS_ENGINE      9.8  575 false 150000
+  NissanLeaf green  SEDAN   ELECTRIC_MOTOR  8.8  325 true  32000  55
+  BMW 	     blue   SEDAN   GAS_ENGINE 	    8.1  364 true  2196  
+  BMW 	     green  SPORTS  GAS_ENGINE 	    2.3  87  false 74657  
+  Dodge      blue   SEDAN   GAS_ENGINE 	    2.1  683 true  8581  
+  Audi 	     black  MINIVAN GAS_ENGINE 	    5.4  519 true  45222  
+  Hyundai    orange SPORTS  GAS_ENGINE 	    2.1  109 true  71234  
+  Bently     black  MINIVAN GAS_ENGINE 	    2.4  650 false 47294  
+  Chevy      white  SPORTS  ELECTRIC_MOTOR  5.7  610 false 27100  39 
+  Kia 	     pink   MINIVAN GAS_ENGINE 	    7.6  453 false 890  
+  BMW 	     blue   SPORTS  GAS_ENGINE 	    9.6  271 true  96397  
+  Hyundai    green  SEDAN   GAS_ENGINE 	    0.3  43  true  95912  
+  Bently     black  SPORTS  GAS_ENGINE 	    8.9  504 true  76141  
+  Kia        silver SEDAN   GAS_ENGINE 	    3.6  528 true  62354  
+  Ford 	     red    SPORTS  GAS_ENGINE 	    8.1  331 false 43554  
+  Kia 	     blue   SPORTS  GAS_ENGINE 	    6.2  586 true  42626  
+  Smart      red    SEDAN   ELECTRIC_MOTOR  2.8  326 true  30416  1 
+  MINI 	     black  SPORTS  ELECTRIC_MOTOR  2.4  515 true  1299   74 
+  Smart      silver SPORTS  GAS_ENGINE 	    7.5  231 true  182  
+  Smart      red    SEDAN   ELECTRIC_MOTOR  0.8  548 false 74733  42 
+  Hyundai    black  MINIVAN GAS_ENGINE 	    3.9  372 false 8285  
+  Toyota     blue   MINIVAN GAS_ENGINE 	    8.2  99  false 27635  
+  Bently    grey   MINIVAN ELECTRIC_MOTOR   7.8  333 true  62957  98 
+
